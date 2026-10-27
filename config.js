@@ -1,2 +1,3 @@
-// Public contact information only. Never put credentials in this file.
-window.SITE_CONFIG = { phone: '', whatsapp: '', email: '' };
+// Public test contact details only. No company contact details or credentials.
+window.SITE_CONFIG = { phone: '+27713541554', whatsapp: '27713541554', email: 'liquidationservices29@gmail.com' };
+
